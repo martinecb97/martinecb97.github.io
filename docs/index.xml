@@ -1,48 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller de Producto 2021 on Martin Castillo - Taller Producto 2021</title>
-    <link>https://martinecb97.github.io/docs/</link>
-    <description>Recent content in Taller de Producto 2021 on Martin Castillo - Taller Producto 2021</description>
+    <title>Taller de Producto 2021 on Nombre Apellido - Taller Producto 2021</title>
+    <link>/docs/</link>
+    <description>Recent content in Taller de Producto 2021 on Nombre Apellido - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://martinecb97.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargo I</title>
-      <link>https://martinecb97.github.io/docs/encargo1/</link>
+      <title>Ejemplo Shortcodes</title>
+      <link>/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinecb97.github.io/docs/encargo1/</guid>
-      <description>Hibridación  Referentes   OH Table   El diseño de esta mesa consiste en generar un panel delgado pero con una rigidez alta, mediante un plegado de Acrílico termoformado que permite agregar estructura sin añadir material en la parte inferior del panel, permitiendo una lijereza tanto estética como estructural, además, se generaron uniones con impresión 3D en nailon, que mediante un arduo análisis estructural, se ubican en puntos estratégicos para minimizar la fuerza que se aplica a la superficie.</description>
+      <guid>/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
-      <title>Encargo II</title>
-      <link>https://martinecb97.github.io/docs/encargo2/</link>
+      <title>Ejemplos Markdown</title>
+      <link>/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinecb97.github.io/docs/encargo2/</guid>
-      <description>Propuesta de Hibridación Esta propuesta conceptual se compone de un globo, un estante y origami, y la idea de fondo es crear un mueble que cambie su volumen a media que sea necesario, es decir, a falta espacio, este crece para almacenar más cosas, y si no se requiere, se vuelve pequeño y compacto.</description>
+      <guid>/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Encargo III</title>
-      <link>https://martinecb97.github.io/docs/encargo3/</link>
+      <title>Encargo l</title>
+      <link>/docs/encargol/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinecb97.github.io/docs/encargo3/</guid>
-      <description>Molde Fusion360 Molde 1   Autodesk fusion 360 ( education license) 21 04 2021 21 35 18
-      Autodesk fusion 360 ( education license) 21 04 2021 21 35 27</description>
+      <guid>/docs/encargol/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Sobre mi</title>
-      <link>https://martinecb97.github.io/docs/bio/</link>
+      <title>Encargo ll</title>
+      <link>/docs/encargoll/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://martinecb97.github.io/docs/bio/</guid>
-      <description>Mi nombre es Martin Castillo, tengo 23 años y estoy cursando una doble titulación en Ingeniería Comercial e Ingeniería en Diseño de la universidad Adolfo Ibáñez.
-Algunos de mis intereses tienen relación con el mundo automotriz, específicamente la fabricación en el Off-Road.</description>
+      <guid>/docs/encargoll/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo lll</title>
+      <link>/docs/encargolll/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/encargolll/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Mi</title>
+      <link>/docs/sobremi/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/sobremi/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
