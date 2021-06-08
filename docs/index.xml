@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Encargo lV</title>
+      <link>/docs/encargolv/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/encargolv/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Sobre Mi</title>
       <link>/docs/sobremi/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
